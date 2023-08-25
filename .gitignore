@@ -1,3 +1,10 @@
+# Project specific
+/runs
+/weights
+*/data
+/gradcam
+config.ini
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
